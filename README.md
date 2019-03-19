@@ -16,7 +16,7 @@ Yarn is what we use to manage API server dependencies, so we're going to need th
 ## Getting Started
 
 ```
-git clone git@github.com:imran-aspire/backbone-starter.git
+git clone git@github.com:imranur8/backbone-starter.git
 ```
 
 Then install the dependencies
